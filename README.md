@@ -1,2 +1,68 @@
-# HTML-Portfolio
-Portfolio for Web Development bootcamp
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RubyJane's Website</title>
+</head>
+
+
+<body>
+  
+  <h1>Book</h1>
+  <h2>Chapter 1</h2>
+   <ol>
+    <li>Section 1</li>
+    <li>Section 2</li>
+   </ol> 
+  <h2>Chapter 2</h2>
+    <ul>
+      <li>Section 1</li>
+      <li>Diagram 1</li>
+    </ul>
+  <h2>Chapter 3</h2>
+    <ol>
+      <li>Section 1</li>
+      <li>Section 2</li>
+    </ol>
+
+
+<h1>My Profile</h1>
+<p>
+  My name is Ruby Jane C. Bastismo and I am currently living in City of Naga Cebu, I believe in the saying 
+  <br>"Live your life to the fullest" <hr>
+</p>
+
+ <h2> My favorite Websites</h2>
+ <ol>
+  <li><a href="https://www.google.com/">Google </a></li>
+  <li><a href="https://www.youtube.com/">Youtube</a></li>
+ </ol>
+
+ <h3>Changing the starting number of ordered list:</h3>
+ <h2> My favorite Websites</h2>
+ <ol start="8">
+  <li><a href="https://www.google.com/">Google </a></li>
+  <li><a href="https://www.youtube.com/">Youtube</a></li>
+ </ol>
+<hr>
+
+<h3>Learning how to put an image or gif </h3>
+<h4> I am a dog person </h4>
+<img src="https://raw.githubusercontent.com/appbrewery/webdev/main/puppy.gif" alt="A cte puppy is digging the sand" />
+
+<hr>
+<h1>All the Animals</h1>
+<h2>Rabbit</h2>
+ <img src="4.0 File Paths/Folder0/rabbit.png"/>
+<h2>Cat</h2>
+ <img src="4.0 File Paths/Folder0/Folder3/cat.png"/>
+<h2>Dog</h2>
+ <img src="4.0 File Paths/dog.png"/>
+<h2>Fish</h2>
+ <img src="4.0 File Paths/Folder1/fish.png"/>
+<h2>Bird</h2>
+ <img src="4.0 File Paths/Folder1/Folder2/bird.png"/>
+
+</body>
+</html>
